@@ -16,8 +16,8 @@ This notebook implements a **Convolutional Neural Network (CNN)** for the **MNIS
 6. **Evaluation:** Validation accuracy, classification report, and confusion matrix to analyze digit-level performance.
 
 ## Key Insights & Results
-- The model achieves **~98.90% validation accuracy**.
-- Strong performance across all digits (precision/recall/F1 > 0.98 for most classes).
+- The model achieves **approximately 99.08% validation accuracy**.
+- Strong performance across all digits (**precision/recall/F1 > 0.99** for most classes).
 - Data augmentation and batch normalization significantly help reduce overfitting.
 - The confusion matrix shows very few misclassifications, mostly between visually similar digits.
 
