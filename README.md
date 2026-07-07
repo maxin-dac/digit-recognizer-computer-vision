@@ -22,12 +22,18 @@ This notebook implements a **Convolutional Neural Network (CNN)** for the **MNIS
 - The confusion matrix shows very few misclassifications, mostly between visually similar digits.
 
 ## Tech Stack & Libraries
-- **Language:** Python
-- **Data Manipulation:**: `pandas`, `numpy`
-- **Visualization:** `Matplotlib`, `Seaborn`
-- **Deep Learning:** `TensorFlow` / `Keras`
-- **Evaluation:** `scikit-learn` (`accuracy_score`, `classification_report`, `confusion_matrix`)
-- **Environment:** Kaggle Notebook
+
+* **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+* **Data Manipulation:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+* **Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-5B8DB8?style=flat)
+
+* **Deep Learning:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+* **Evaluation:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) (`accuracy_score`, `classification_report`, `confusion_matrix`)
+
+* **Environment:** ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 ---
 
