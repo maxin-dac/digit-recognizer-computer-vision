@@ -2,7 +2,7 @@
 <img width="560" height="279" alt="header" src="https://github.com/user-attachments/assets/71f3f8ca-fe44-4f63-9717-d8005dbf106d" />
 
 ## Context
-From Kaggle: [https://www.kaggle.com/competitions/digit-recognizer]
+From [Kaggle](https://www.kaggle.com/competitions/digit-recognizer)
 
 ## Objective
 This notebook implements a **Convolutional Neural Network (CNN)** for the **MNIST Digit Recognition** Kaggle competition. The goal is to classify handwritten digits (between 0 and 9) from grayscale images with high accuracy.
@@ -31,6 +31,4 @@ This notebook implements a **Convolutional Neural Network (CNN)** for the **MNIS
 
 ---
 
-*To explore the detailed code, feel free to download the notebook file on this repo, or check out my Kaggle: [https://www.kaggle.com/code/maximendacleu/digit-recognizer].*
-
-***By: Maxime NDACLEU | BI & Data Analyst***
+*To explore the detailed code, feel free to download the notebook file on this repo, or check out my [Kaggle](https://www.kaggle.com/code/maximendacleu/digit-recognizer).*
